@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "330170026423",
+    "firebase_url": "https://foodovit-7073f.firebaseio.com",
+    "project_id": "foodovit-7073f",
+    "storage_bucket": "foodovit-7073f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:330170026423:android:7770486269692c28810032",
+        "android_client_info": {
+          "package_name": "com.example.foodovit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "330170026423-kls1c8v6u3chcl3vn1ucpm5mjlrjhk06.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7kTM1VzUr_uJA1Gc5VkfqIPP4FX9HlD0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "330170026423-kls1c8v6u3chcl3vn1ucpm5mjlrjhk06.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

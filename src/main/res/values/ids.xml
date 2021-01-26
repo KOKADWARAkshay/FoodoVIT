@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="spinner" type="id" />
+    <item name="spinner2" type="id" />
+    <item name="spinner3" type="id" />
+    <item name="spinner4" type="id" />
+    <item name="button" type="id" />
+    <item name="button4" type="id" />
+    <item name="button5" type="id" />
+    <item name="button6" type="id" />
+    <item name="button7" type="id" />
+    <item name="whatsApp" type="id" />
+    <item name="button9" type="id" />
+</resources>
